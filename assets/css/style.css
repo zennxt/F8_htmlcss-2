@@ -675,6 +675,10 @@ footer .column {
     color: #bfbcb2;
 }
 
+footer li a:hover {
+    text-decoration: underline;
+}
+
 footer li:first-child {
     margin-top: 48px;
 }
